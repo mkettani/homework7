@@ -10,7 +10,7 @@
     <h1>Account Sign Up</h1>
     <form action="display_results.php" method="post">
 
-    <fieldset> 
+    <fieldset>
     <legend>Account Information</legend>
         <label>E-Mail:</label>
         <input type="text" name="email" value="" class="textbox">
@@ -54,7 +54,7 @@
     <input type="submit" value="Submit">
     <br>
 
-    </form>
+    </form>    
     </main>
 </body>
 </html>
